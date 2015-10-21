@@ -10,10 +10,6 @@ class GrandTheftExamo
         long escapeThieves = 0;
         long allBeerBottles = 0;
 
-        //if (numberOfEscapeAttempts > 50)
-        //{
-        //    numberOfEscapeAttempts = 50;
-        //}
         for (int i = 0; i < numberOfEscapeAttempts; i++)
         {
             int amountOfThieves = int.Parse(Console.ReadLine());

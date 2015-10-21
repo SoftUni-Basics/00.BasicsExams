@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheBetterMusicProducer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GrandTheftExamo", "02.GrandTheftExamo\02.GrandTheftExamo.csproj", "{749B20E8-AB2F-4FC8-AB93-B70F71DC547D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PlaidTowel", "03.PlaidTowel\03.PlaidTowel.csproj", "{E083C05A-3942-41FE-8AEC-010CC6566031}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{749B20E8-AB2F-4FC8-AB93-B70F71DC547D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{749B20E8-AB2F-4FC8-AB93-B70F71DC547D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749B20E8-AB2F-4FC8-AB93-B70F71DC547D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E083C05A-3942-41FE-8AEC-010CC6566031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E083C05A-3942-41FE-8AEC-010CC6566031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E083C05A-3942-41FE-8AEC-010CC6566031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E083C05A-3942-41FE-8AEC-010CC6566031}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
