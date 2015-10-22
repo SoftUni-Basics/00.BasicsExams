@@ -6,9 +6,6 @@ class Firefighters
 {
     static void Main()
     {
-        /*  You will be given a number of firefighters, 
-            and after that you will receive a sequence of lines, until you receive as input “rain”, which extinguishes all fires. 
-         */
         int firefighters = int.Parse(Console.ReadLine());
 
         int kids = 0;
@@ -54,9 +51,3 @@ class Firefighters
         Console.WriteLine("Seniors: {0}", seniors);
     }
 }
-/*
-Person types:
-K – Kid
-A – Adult
-S – Senior
-*/
